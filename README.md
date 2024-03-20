@@ -18,7 +18,7 @@ OpenCV library (opencv-python)
 Make sure all dependencies are installed using requirements.txt:
 
 *Copy code*
-pip install -r requirements.txt
+<b>pip install -r requirements.txt</b>
 
 **Contribution:**
 Contributions to the project are welcome! Please consider forking the repository, making your changes, and submitting a pull request.
