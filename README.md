@@ -9,7 +9,7 @@ This project is a practical application of computer vision techniques for the de
 5) ROI Extraction: Isolates the region of interest (ROI) for further processing or storage.
 6) Save Functionality: Allows the user to save the detected number plate with a simple keypress, facilitating data collection.
 
-**Usage**
+**Usage:**
 To use this project, run the number_plate.py script. Ensure your webcam is activated and correctly configured. Detected number plates will be displayed in a separate window, and you can press 's' to save the image of the detected plate.
 
 **Requirements:**
@@ -20,11 +20,11 @@ Make sure all dependencies are installed using requirements.txt:
 *Copy code*
 pip install -r requirements.txt
 
-**Contribution**
+**Contribution:**
 Contributions to the project are welcome! Please consider forking the repository, making your changes, and submitting a pull request.
 
-**License**
+**License:**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Acknowledgments**
+**Acknowledgments:**
 Thanks to the OpenCV community for providing the tools and documentation that made this project possible.
